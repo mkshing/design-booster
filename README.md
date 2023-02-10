@@ -1,4 +1,4 @@
-# Unofficial implementation of Design Booster [WIP]
+# Unofficial implementation of Design Booster
 This is an unofficial implementation of [Design Booster](https://arxiv.org/abs/2302.02284) using [d🧨ffusers](https://github.com/huggingface/diffusers) by [mkshing](https://twitter.com/mk1stats).
 In that paper, DesignBooster is trained on a large dataset such as LAION. But I am wondering if it's applicable to small dataset as well such as Dreambooth and here it is!
 
