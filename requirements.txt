@@ -1,0 +1,12 @@
+accelerate
+torchvision
+transformers>=4.25.1
+ftfy
+bitsandbytes
+tensorboard
+Jinja2
+natsort
+safetensors
+xformers
+git+https://github.com/huggingface/diffusers
+x-transformers
